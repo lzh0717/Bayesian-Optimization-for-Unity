@@ -44,3 +44,10 @@ __pycache__.meta
 
 # Unity editor recovery scenes
 Assets/_Recovery/
+
+# Separate 18GB Ulm lab driving-sim project (own git remote + paid assets) — NEVER publish
+context-bo-driving-style/
+
+# Local preview recordings — not part of the source
+*.mp4
+*.mov
